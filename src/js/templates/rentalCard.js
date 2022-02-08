@@ -4,7 +4,7 @@ function rentalCard ({key, city, urlPath}){
   <aside class="vacation-rentals">
 
   <figure>
-  <img src="${urlPath}" width="160" alt="rental property">
+  <img src="${imgUrl}" width="160" alt="rental property">
       <figcaption> <h2>${city}</h2></figcaption>
   </figure>
 
